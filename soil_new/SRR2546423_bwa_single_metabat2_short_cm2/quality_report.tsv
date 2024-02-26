@@ -1,0 +1,23 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+SRR2546423_fairy_single_metabat2_short_bin.1	37.67	1.1	Neural Network (Specific Model)	11	0.837	4459	236.19050104384132	1617840	0.54	1916	408	24348	None
+SRR2546423_fairy_single_metabat2_short_bin.10	90.83	16.57	Gradient Boost (General Model)	11	0.831	14751	283.28912957337207	7720266	0.54	7571	862	106815	None
+SRR2546423_fairy_single_metabat2_short_bin.11	92.94	1.63	Gradient Boost (General Model)	11	0.898	33810	313.2522658610272	3453953	0.68	3310	201	154805	None
+SRR2546423_fairy_single_metabat2_short_bin.12	4.82	0.0	Neural Network (Specific Model)	11	0.476	3658	109.77801724137932	319207	0.28	464	100	13620	None
+SRR2546423_fairy_single_metabat2_short_bin.13	28.37	3.95	Neural Network (Specific Model)	11	0.892	2417	237.99042298483639	999260	0.59	1253	407	12087	None
+SRR2546423_fairy_single_metabat2_short_bin.14	93.08	32.74	Gradient Boost (General Model)	11	0.888	3124	237.4205698401668	5745374	0.63	7195	1951	18234	None
+SRR2546423_fairy_single_metabat2_short_bin.15	90.17	31.93	Gradient Boost (General Model)	11	0.87	4968	252.15095514950167	4171338	0.55	4816	972	37312	None
+SRR2546423_fairy_single_metabat2_short_bin.16	76.4	1.55	Gradient Boost (General Model)	11	0.809	8833	272.1156124141199	4252687	0.53	4221	604	48476	None
+SRR2546423_fairy_single_metabat2_short_bin.17	25.11	0.12	Neural Network (Specific Model)	11	0.864	2689	223.36635514018693	826486	0.66	1070	313	7960	None
+SRR2546423_fairy_single_metabat2_short_bin.18	46.47	2.3	Gradient Boost (General Model)	11	0.861	2668	208.1875647668394	697238	0.64	965	260	10312	None
+SRR2546423_fairy_single_metabat2_short_bin.19	71.61	2.73	Gradient Boost (General Model)	11	0.897	9804	266.4498141263941	2149843	0.65	2421	297	29874	None
+SRR2546423_fairy_single_metabat2_short_bin.2	8.67	0.0	Neural Network (Specific Model)	11	0.892	2163	216.4553376906318	332799	0.67	459	146	6052	None
+SRR2546423_fairy_single_metabat2_short_bin.20	88.04	2.26	Gradient Boost (General Model)	11	0.866	58432	285.73957055214726	3218019	0.54	3260	127	176297	None
+SRR2546423_fairy_single_metabat2_short_bin.21	100.0	62.83	Gradient Boost (General Model)	11	0.9	5015	246.22916463592944	8386875	0.66	10259	1998	57060	None
+SRR2546423_fairy_single_metabat2_short_bin.22	81.02	1.37	Gradient Boost (General Model)	11	0.906	15692	292.13098591549294	2739061	0.6	2840	265	62617	None
+SRR2546423_fairy_single_metabat2_short_bin.3	88.09	41.65	Gradient Boost (General Model)	11	0.898	2648	222.5783276450512	4340295	0.69	5860	1661	13079	None
+SRR2546423_fairy_single_metabat2_short_bin.4	65.65	4.23	Gradient Boost (General Model)	11	0.831	4179	273.38881764555015	3839914	0.65	3899	1065	19577	None
+SRR2546423_fairy_single_metabat2_short_bin.5	93.97	60.57	Gradient Boost (General Model)	11	0.915	4421	266.88063326436986	9691980	0.69	11117	2593	44869	None
+SRR2546423_fairy_single_metabat2_short_bin.6	87.16	10.23	Gradient Boost (General Model)	11	0.836	6557	264.46652267818575	6130282	0.57	6482	1170	56727	None
+SRR2546423_fairy_single_metabat2_short_bin.7	27.23	0.86	Neural Network (Specific Model)	11	0.827	2581	220.02281134401971	1289253	0.68	1622	516	7799	None
+SRR2546423_fairy_single_metabat2_short_bin.8	23.87	0.18	Neural Network (Specific Model)	11	0.856	2436	217.51343054489638	989741	0.61	1303	409	7695	None
+SRR2546423_fairy_single_metabat2_short_bin.9	86.21	24.77	Gradient Boost (General Model)	11	0.873	3400	235.933697422631	8434283	0.71	10437	2690	36669	None

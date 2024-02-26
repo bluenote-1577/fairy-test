@@ -1,0 +1,14 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+DRR310873_fairy_single_metabat2_short_bin.1	5.42	0.0	Neural Network (Specific Model)	11	0.861	14419	206.79190751445086	248314	0.47	346	38	41751	None
+DRR310873_fairy_single_metabat2_short_bin.10	83.28	18.06	Gradient Boost (General Model)	11	0.878	5539	222.91220502410556	2991576	0.49	3941	650	36885	None
+DRR310873_fairy_single_metabat2_short_bin.11	94.24	0.62	Gradient Boost (General Model)	11	0.885	116710	255.38637770897833	1394361	0.5	1615	24	205784	None
+DRR310873_fairy_single_metabat2_short_bin.12	63.17	9.66	Gradient Boost (General Model)	11	0.886	12672	251.18430034129693	1243021	0.49	1465	173	44435	None
+DRR310873_fairy_single_metabat2_short_bin.13	84.91	2.04	Gradient Boost (General Model)	11	0.867	54899	274.8979706877114	1683493	0.35	1774	86	160037	None
+DRR310873_fairy_single_metabat2_short_bin.2	54.16	7.18	Gradient Boost (General Model)	11	0.849	2406	222.77385752688173	2337327	0.32	2976	951	16614	None
+DRR310873_fairy_single_metabat2_short_bin.3	58.96	3.14	Gradient Boost (General Model)	11	0.879	3280	220.974386339381	704348	0.45	937	225	11761	None
+DRR310873_fairy_single_metabat2_short_bin.4	47.26	0.03	Gradient Boost (General Model)	11	0.926	2900	220.28030303030303	281855	0.33	396	102	10041	None
+DRR310873_fairy_single_metabat2_short_bin.5	38.23	0.84	Neural Network (Specific Model)	11	0.899	2535	259.32778355879293	1659646	0.64	1922	654	8701	None
+DRR310873_fairy_single_metabat2_short_bin.6	83.54	2.79	Gradient Boost (General Model)	11	0.861	5533	248.28772440562832	1778018	0.42	2061	384	26297	None
+DRR310873_fairy_single_metabat2_short_bin.7	17.28	0.0	Neural Network (Specific Model)	11	0.891	43607	265.4914675767918	261048	0.49	293	12	51328	None
+DRR310873_fairy_single_metabat2_short_bin.8	52.31	0.63	Gradient Boost (General Model)	11	0.879	3196	252.63074204946997	1459431	0.38	1698	495	9458	None
+DRR310873_fairy_single_metabat2_short_bin.9	84.96	38.66	Gradient Boost (General Model)	11	0.832	3096	222.64966929805846	3755970	0.34	4687	1258	28357	None

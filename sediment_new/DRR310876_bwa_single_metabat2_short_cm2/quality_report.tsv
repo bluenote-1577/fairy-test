@@ -1,0 +1,13 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+DRR310876_fairy_single_metabat2_short_bin.1	75.15	8.59	Gradient Boost (General Model)	11	0.839	9699	251.6327160493827	1453336	0.47	1620	218	36208	None
+DRR310876_fairy_single_metabat2_short_bin.10	79.76	1.98	Gradient Boost (General Model)	11	0.866	6843	278.55083056478406	1448861	0.43	1505	268	53942	None
+DRR310876_fairy_single_metabat2_short_bin.11	57.32	0.86	Gradient Boost (General Model)	11	0.858	5206	247.02711496746204	794577	0.5	922	175	20865	None
+DRR310876_fairy_single_metabat2_short_bin.12	46.74	3.2	Gradient Boost (General Model)	11	0.844	3107	264.7227171492205	843548	0.34	898	292	9201	None
+DRR310876_fairy_single_metabat2_short_bin.2	79.73	1.21	Gradient Boost (General Model)	11	0.874	4224	259.37421383647796	1977536	0.37	2226	535	17815	None
+DRR310876_fairy_single_metabat2_short_bin.3	99.04	57.93	Gradient Boost (General Model)	11	0.838	3508	248.19197651663404	4532119	0.32	5110	1364	33956	None
+DRR310876_fairy_single_metabat2_short_bin.4	16.76	0.08	Neural Network (Specific Model)	11	0.899	2943	234.15584415584416	239755	0.55	308	88	6692	None
+DRR310876_fairy_single_metabat2_short_bin.5	67.25	0.89	Gradient Boost (General Model)	11	0.871	3943	260.68010575016524	1354680	0.42	1513	388	13913	None
+DRR310876_fairy_single_metabat2_short_bin.6	65.02	5.86	Gradient Boost (General Model)	11	0.852	5793	234.76973684210526	752057	0.45	912	163	22970	None
+DRR310876_fairy_single_metabat2_short_bin.7	15.32	0.02	Neural Network (Specific Model)	11	0.868	1952	217.5128676470588	408357	0.29	544	200	6401	None
+DRR310876_fairy_single_metabat2_short_bin.8	96.94	50.27	Gradient Boost (General Model)	11	0.874	4789	245.79127878490937	3435029	0.49	4082	852	23947	None
+DRR310876_fairy_single_metabat2_short_bin.9	83.79	0.4	Gradient Boost (General Model)	11	0.86	20853	263.9703823371029	1703553	0.55	1857	149	44172	None

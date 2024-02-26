@@ -1,0 +1,19 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+cluster_1	99.96	0.63	Neural Network (Specific Model)	11	0.876	199059	342.85379746835446	1853529	0.62	1580	31	524007	None
+cluster_10	94.17	0.43	Neural Network (Specific Model)	11	0.913	68117	369.41129943502824	4291934	0.47	3540	132	212284	None
+cluster_11	90.69	0.0	Neural Network (Specific Model)	11	0.912	19488	371.47106278498774	3478172	0.42	2851	286	68268	None
+cluster_12	86.44	1.12	Neural Network (Specific Model)	11	0.847	20246	330.1362275449102	2340345	0.39	2004	184	82331	None
+cluster_13	83.91	2.56	Neural Network (Specific Model)	11	0.897	5828	302.99782135076254	1857214	0.56	1836	398	28990	None
+cluster_14	83.05	0.05	Gradient Boost (General Model)	11	0.929	5094	329.37723214285717	1427868	0.4	1344	336	20243	None
+cluster_15	45.53	1.07	Neural Network (Specific Model)	11	0.931	5208	306.50756811301716	976171	0.43	991	210	30642	None
+cluster_16	62.53	0.87	Neural Network (Specific Model)	11	0.888	5862	297.3723404255319	2920707	0.51	2914	621	28043	None
+cluster_17	59.52	1.31	Neural Network (Specific Model)	11	0.9	3606	262.1426907396622	1494591	0.62	1717	466	26966	None
+cluster_18	58.52	0.02	Gradient Boost (General Model)	11	0.914	3347	295.22498321020817	1439249	0.5	1489	466	14361	None
+cluster_2	100.0	0.03	Neural Network (Specific Model)	11	0.879	78405	350.79843137254903	3047949	0.57	2550	72	175897	None
+cluster_3	93.16	0.18	Neural Network (Specific Model)	11	0.895	10747	310.76735218509	1617957	0.46	1556	239	56668	None
+cluster_4	99.41	0.02	Neural Network (Specific Model)	11	0.878	84157	354.5770077007701	2200694	0.6	1818	48	230766	None
+cluster_5	94.27	0.41	Neural Network (Specific Model)	11	0.91	62569	366.7939495798319	3594635	0.45	2975	114	199054	None
+cluster_6	97.62	0.36	Gradient Boost (General Model)	11	0.89	56281	320.90932642487047	2084902	0.52	1930	62	120281	None
+cluster_7	87.38	0.15	Neural Network (Specific Model)	11	0.865	74476	328.93108108108106	3371281	0.42	2960	72	389201	None
+cluster_8	93.32	0.74	Neural Network (Specific Model)	11	0.884	25246	355.87589413447785	3372550	0.41	2796	223	73261	None
+cluster_9	77.41	0.74	Neural Network (Specific Model)	11	0.901	5639	277.56152671755723	3019289	0.52	3275	640	31675	None

@@ -1,0 +1,17 @@
+[01/10/2024 04:52:44 AM] INFO: Running CheckM2 version 1.0.2
+[01/10/2024 04:52:44 AM] INFO: Running quality prediction workflow with 40 threads.
+[01/10/2024 04:52:45 AM] INFO: Calling genes in 195 bins with 40 threads:
+[01/10/2024 04:53:50 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.146.gff.4
+
+[01/10/2024 04:53:50 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.108.gff.4
+
+[01/10/2024 04:53:56 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.132.gff.4
+
+[01/10/2024 04:53:57 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.11.gff.4
+
+[01/10/2024 04:53:57 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.13.gff.4
+
+[01/10/2024 04:54:02 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.105.gff.4
+
+[01/10/2024 04:54:06 AM] ERROR: File does not exist: checkm2_results/ERR7625425_minimap_all_metabat2_long_cm2/protein_files/ERR7625425_fairy_all_metabat2_long_bin.151.gff.4
+

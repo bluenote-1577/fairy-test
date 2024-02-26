@@ -1,0 +1,39 @@
+,Sampling,Binner,Coverage,Technology,Dataset,High-quality,MH-quality,Medium-quality
+0,Multi-coverage,MaxBin2*,BWA,Illumina,Human Gut,46,90,112
+1,Multi-coverage,MaxBin2*,BWA,Illumina,Marine biofilm,17,26,33
+2,Multi-coverage,MaxBin2*,BWA,Illumina,Sediment,3,9,14
+3,Multi-coverage,MaxBin2*,BWA,Illumina,Soil,7,25,40
+4,Multi-coverage,MaxBin2*,fairy,Illumina,Human Gut,42,81,112
+5,Multi-coverage,MaxBin2*,fairy,Illumina,Marine biofilm,19,30,39
+6,Multi-coverage,MaxBin2*,fairy,Illumina,Sediment,3,8,11
+7,Multi-coverage,MaxBin2*,fairy,Illumina,Soil,1,16,23
+8,Multi-coverage,MetaBAT2,BWA,Illumina,Chicken caecum,1039,1994,2472
+9,Multi-coverage,MetaBAT2,BWA,Illumina,Human Gut,105,217,265
+10,Multi-coverage,MetaBAT2,BWA,Illumina,Marine biofilm,57,117,151
+11,Multi-coverage,MetaBAT2,BWA,Illumina,Sediment,15,55,80
+12,Multi-coverage,MetaBAT2,BWA,Illumina,Soil,46,178,279
+13,Multi-coverage,MetaBAT2,fairy,Illumina,Chicken caecum,1256,2128,2523
+14,Multi-coverage,MetaBAT2,fairy,Illumina,Human Gut,102,208,267
+15,Multi-coverage,MetaBAT2,fairy,Illumina,Marine biofilm,52,118,155
+16,Multi-coverage,MetaBAT2,fairy,Illumina,Sediment,14,52,74
+17,Multi-coverage,MetaBAT2,fairy,Illumina,Soil,42,169,264
+18,Multi-coverage,MetaBinner,BWA,Illumina,Chicken caecum,1519,2226,2442
+19,Multi-coverage,MetaBinner,BWA,Illumina,Human Gut,119,219,258
+20,Multi-coverage,MetaBinner,BWA,Illumina,Marine biofilm,40,85,112
+21,Multi-coverage,MetaBinner,BWA,Illumina,Sediment,19,65,83
+22,Multi-coverage,MetaBinner,BWA,Illumina,Soil,27,127,217
+23,Multi-coverage,MetaBinner,fairy,Illumina,Chicken caecum,1543,2264,2491
+24,Multi-coverage,MetaBinner,fairy,Illumina,Human Gut,112,215,262
+25,Multi-coverage,MetaBinner,fairy,Illumina,Marine biofilm,46,101,132
+26,Multi-coverage,MetaBinner,fairy,Illumina,Sediment,14,53,72
+27,Multi-coverage,MetaBinner,fairy,Illumina,Soil,15,95,190
+28,Multi-coverage,VAMB,BWA,Illumina,Chicken caecum,1424,2280,2550
+29,Multi-coverage,VAMB,BWA,Illumina,Human Gut,110,225,261
+30,Multi-coverage,VAMB,BWA,Illumina,Marine biofilm,32,80,112
+31,Multi-coverage,VAMB,BWA,Illumina,Sediment,15,52,68
+32,Multi-coverage,VAMB,BWA,Illumina,Soil,21,102,160
+33,Multi-coverage,VAMB,fairy,Illumina,Chicken caecum,1485,2316,2580
+34,Multi-coverage,VAMB,fairy,Illumina,Human Gut,103,205,231
+35,Multi-coverage,VAMB,fairy,Illumina,Marine biofilm,31,62,92
+36,Multi-coverage,VAMB,fairy,Illumina,Sediment,13,40,57
+37,Multi-coverage,VAMB,fairy,Illumina,Soil,13,58,101

@@ -1,0 +1,17 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+cluster_1	98.67	1.94	Gradient Boost (General Model)	11	0.873	87289	363.7348256564787	5797274	0.51	4646	158	349828	None
+cluster_10	94.04	0.17	Gradient Boost (General Model)	11	0.747	14525	296.7392578125	1219165	0.3	1024	152	39424	None
+cluster_11	72.8	8.41	Neural Network (Specific Model)	11	0.92	9068	275.45533657537754	3500345	0.71	3907	493	79082	None
+cluster_12	78.0	0.74	Neural Network (Specific Model)	11	0.92	13139	287.6077481840194	2706188	0.67	2891	297	56311	None
+cluster_13	48.26	0.31	Neural Network (Specific Model)	11	0.888	2546	242.92762836185818	1674691	0.44	2045	660	12985	None
+cluster_14	72.52	5.97	Gradient Boost (General Model)	11	0.924	8660	271.6218487394958	2617058	0.68	2975	449	49532	None
+cluster_15	46.65	12.8	Gradient Boost (General Model)	11	0.911	6033	254.84834918858422	1496908	0.63	1787	322	71165	None
+cluster_16	54.8	15.7	Neural Network (Specific Model)	11	0.906	2478	224.5666975451598	3201586	0.66	4318	1253	23483	None
+cluster_2	99.93	0.1	Neural Network (Specific Model)	11	0.875	109229	365.4388194743645	5808429	0.39	4642	88	288858	None
+cluster_3	94.05	0.25	Neural Network (Specific Model)	11	0.899	17313	334.1342086068563	4580095	0.35	4113	533	95237	None
+cluster_4	100.0	1.45	Gradient Boost (General Model)	11	0.899	12051	305.48	2493840	0.32	2450	309	46409	None
+cluster_5	98.25	0.89	Gradient Boost (General Model)	11	0.89	73011	288.23555555555555	1306276	0.5	1350	94	184383	None
+cluster_6	84.12	0.5	Neural Network (Specific Model)	11	0.887	17954	320.1178372024684	3677559	0.43	3403	361	65844	None
+cluster_7	86.77	1.32	Neural Network (Specific Model)	11	0.864	68186	328.0146036161335	3272091	0.42	2876	145	192939	None
+cluster_8	69.42	0.39	Neural Network (Specific Model)	11	0.86	14244	298.91084905660375	2206702	0.31	2120	254	46076	None
+cluster_9	81.11	0.48	Neural Network (Specific Model)	11	0.776	58874	315.8780181875196	3887913	0.51	3189	114	231283	None

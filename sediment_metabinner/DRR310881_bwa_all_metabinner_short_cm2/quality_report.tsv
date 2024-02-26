@@ -1,0 +1,6 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+cluster_1	86.59	2.67	Gradient Boost (General Model)	11	0.883	5043	250.57217261904762	1142333	0.35	1344	275	22621	None
+cluster_2	98.83	11.6	Gradient Boost (General Model)	11	0.857	62814	273.192972972973	5297888	0.29	5550	414	194457	None
+cluster_3	76.75	3.09	Gradient Boost (General Model)	11	0.904	5054	269.91866028708137	2428943	0.34	2717	584	23853	None
+cluster_4	73.92	7.98	Gradient Boost (General Model)	11	0.899	5072	258.3796636889122	3274870	0.34	3806	792	39502	None
+cluster_5	64.26	4.01	Gradient Boost (General Model)	11	0.832	4965	255.4284827800186	2965316	0.32	3223	746	38350	None

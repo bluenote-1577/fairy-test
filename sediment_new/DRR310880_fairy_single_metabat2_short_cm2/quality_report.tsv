@@ -1,0 +1,13 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+DRR310880_fairy_single_metabat2_short_bin.1	100.0	20.29	Gradient Boost (General Model)	11	0.848	3693	244.22403063666826	3604236	0.32	4178	1040	56229	None
+DRR310880_fairy_single_metabat2_short_bin.10	94.3	57.08	Gradient Boost (General Model)	11	0.881	3334	223.48802588996764	3516804	0.47	4635	1125	18772	None
+DRR310880_fairy_single_metabat2_short_bin.11	15.1	0.64	Neural Network (Specific Model)	11	0.919	2735	227.20527859237538	252307	0.51	341	95	10805	None
+DRR310880_fairy_single_metabat2_short_bin.12	69.69	7.12	Gradient Boost (General Model)	11	0.852	2559	209.95635305528614	1519487	0.34	2062	601	13264	None
+DRR310880_fairy_single_metabat2_short_bin.2	57.62	0.87	Gradient Boost (General Model)	11	0.863	35222	296.7757510729614	960269	0.35	932	50	83219	None
+DRR310880_fairy_single_metabat2_short_bin.3	16.79	0.03	Neural Network (Specific Model)	11	0.864	2530	234.90613718411552	675997	0.47	831	267	7179	None
+DRR310880_fairy_single_metabat2_short_bin.4	80.17	7.39	Gradient Boost (General Model)	11	0.886	3530	233.67351816443593	1649724	0.43	2092	527	15112	None
+DRR310880_fairy_single_metabat2_short_bin.5	8.95	0.03	Neural Network (Specific Model)	11	0.849	4331	188.63793103448276	269586	0.47	406	75	9864	None
+DRR310880_fairy_single_metabat2_short_bin.6	72.58	2.43	Gradient Boost (General Model)	11	0.829	11008	252.22514285714286	796906	0.46	875	113	26842	None
+DRR310880_fairy_single_metabat2_short_bin.7	23.94	0.0	Neural Network (Specific Model)	11	0.908	3427	218.33333333333334	314747	0.54	438	99	9806	None
+DRR310880_fairy_single_metabat2_short_bin.8	81.82	19.17	Gradient Boost (General Model)	11	0.901	2203	220.72715894868585	585151	0.35	799	255	7590	None
+DRR310880_fairy_single_metabat2_short_bin.9	92.54	0.49	Gradient Boost (General Model)	11	0.884	25411	244.84564643799473	1255716	0.5	1516	84	66876	None

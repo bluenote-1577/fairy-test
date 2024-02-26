@@ -1,0 +1,23 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+cluster_1	88.43	1.13	Gradient Boost (General Model)	11	0.893	36100	284.9625385632437	2166166	0.65	2269	124	207719	None
+cluster_10	42.58	0.55	Neural Network (Specific Model)	11	0.915	3397	232.49008723235528	956946	0.67	1261	300	14618	None
+cluster_11	48.81	0.9	Gradient Boost (General Model)	11	0.879	4845	235.45285359801488	1290192	0.68	1612	314	13806	None
+cluster_12	47.27	0.07	Neural Network (Specific Model)	11	0.845	35891	310.94455852156057	3753202	0.58	3409	173	119684	None
+cluster_13	60.95	4.93	Gradient Boost (General Model)	11	0.847	5086	216.87448438420742	1299115	0.52	1697	318	24921	None
+cluster_14	55.45	5.13	Gradient Boost (General Model)	11	0.847	16001	238.40066225165563	1777650	0.52	2114	187	44678	None
+cluster_15	57.73	2.37	Gradient Boost (General Model)	11	0.879	40621	328.8069224353628	2683405	0.57	2398	96	71195	None
+cluster_16	70.51	4.8	Gradient Boost (General Model)	11	0.897	6107	252.34828375286043	1838234	0.65	2185	381	30981	None
+cluster_17	50.84	4.54	Gradient Boost (General Model)	11	0.911	4517	251.6243694218083	2128380	0.69	2577	548	14300	None
+cluster_18	50.08	9.0	Gradient Boost (General Model)	11	0.868	2810	244.82811361981064	2316957	0.59	2746	857	20464	None
+cluster_19	52.17	8.14	Gradient Boost (General Model)	11	0.871	4642	242.580662112454	1584364	0.55	1903	421	19831	None
+cluster_2	80.22	3.24	Gradient Boost (General Model)	11	0.83	8300	268.35497104247105	4009574	0.52	4144	658	52569	None
+cluster_20	46.87	6.53	Gradient Boost (General Model)	11	0.913	3199	233.80773672055426	1325992	0.67	1732	449	10934	None
+cluster_21	46.93	3.58	Gradient Boost (General Model)	11	0.878	3176	226.5735436112005	2394965	0.68	3107	799	12658	None
+cluster_22	44.84	9.03	Gradient Boost (General Model)	11	0.837	3876	210.31917938931298	1574682	0.53	2096	466	18663	None
+cluster_3	81.74	0.16	Gradient Boost (General Model)	11	0.902	30264	319.35490196078433	3241333	0.68	3060	165	103115	None
+cluster_4	88.6	3.94	Gradient Boost (General Model)	11	0.868	15209	278.4265986190333	3193752	0.55	3331	336	70467	None
+cluster_5	82.28	0.83	Gradient Boost (General Model)	11	0.942	19132	328.2043604651163	3583972	0.69	3440	294	81915	None
+cluster_6	69.77	1.25	Gradient Boost (General Model)	11	0.828	8234	247.06120481927712	3705249	0.56	4150	673	36141	None
+cluster_7	79.16	2.53	Gradient Boost (General Model)	11	0.897	28030	277.7011600928074	1997276	0.64	2155	103	110792	None
+cluster_8	74.38	3.1	Gradient Boost (General Model)	11	0.925	5204	278.13845633039944	2654024	0.69	2954	651	31582	None
+cluster_9	64.71	3.2	Gradient Boost (General Model)	11	0.92	32502	325.54194407456725	2385535	0.68	2253	116	92752	None

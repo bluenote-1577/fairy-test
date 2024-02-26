@@ -1,0 +1,6 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+DRR310881_fairy_all_metabat2_short_bin.1	73.74	10.59	Gradient Boost (General Model)	11	0.894	4782	250.16211180124225	4044458	0.36	4830	1014	39502	None
+DRR310881_fairy_all_metabat2_short_bin.2	84.66	2.25	Gradient Boost (General Model)	11	0.879	5135	251.23594615993665	1080957	0.35	1263	253	22621	None
+DRR310881_fairy_all_metabat2_short_bin.3	77.0	4.16	Gradient Boost (General Model)	11	0.9	5099	269.28073916133616	2520575	0.34	2814	598	23853	None
+DRR310881_fairy_all_metabat2_short_bin.4	89.62	8.38	Gradient Boost (General Model)	11	0.865	91221	296.26878612716763	3552309	0.3	3460	105	194457	None
+DRR310881_fairy_all_metabat2_short_bin.5	83.87	15.14	Gradient Boost (General Model)	11	0.839	5021	239.16090584028606	6446749	0.31	7551	1588	108572	None

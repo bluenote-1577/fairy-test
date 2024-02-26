@@ -1,0 +1,4 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+12510	23.59	0.34	Neural Network (Specific Model)	11	0.906	2517	210.95687885010267	339588	0.62	487	164	7477	None
+13084	68.15	0.55	Neural Network (Specific Model)	11	0.803	11542	210.53538241601143	1096318	0.42	1399	128	31236	None
+13208	9.12	0.0	Neural Network (Specific Model)	11	0.807	3160	157.44816053511707	348113	0.49	598	191	46901	None

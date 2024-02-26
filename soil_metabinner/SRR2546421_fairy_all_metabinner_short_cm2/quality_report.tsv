@@ -1,0 +1,17 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+cluster_1	89.16	0.94	Gradient Boost (General Model)	11	0.883	41766	297.033033033033	3016675	0.54	2997	107	120034	None
+cluster_10	61.43	1.99	Gradient Boost (General Model)	11	0.914	10914	270.1695220919747	981062	0.65	1109	140	31693	None
+cluster_11	50.04	0.73	Gradient Boost (General Model)	11	0.824	3390	248.7944606413994	1857932	0.5	2058	592	13432	None
+cluster_12	63.98	3.36	Gradient Boost (General Model)	11	0.9	4932	252.22729306487696	1873265	0.65	2235	461	23263	None
+cluster_13	52.99	4.51	Gradient Boost (General Model)	11	0.88	5077	268.0104311543811	1310165	0.55	1438	302	52337	None
+cluster_14	60.35	2.78	Gradient Boost (General Model)	11	0.886	5088	249.39868776534158	2183578	0.64	2591	512	31679	None
+cluster_15	44.16	5.51	Gradient Boost (General Model)	11	0.922	3377	237.35545023696682	974814	0.66	1266	327	10867	None
+cluster_16	35.06	4.99	Neural Network (Specific Model)	11	0.916	4943	265.1260245901639	1691332	0.7	1952	360	16233	None
+cluster_2	69.99	0.17	Gradient Boost (General Model)	11	0.852	8489	259.2625910674691	2874696	0.56	3157	449	32647	None
+cluster_3	86.92	4.95	Gradient Boost (General Model)	11	0.848	18705	312.4327424400417	4231652	0.53	3836	315	98203	None
+cluster_4	75.15	7.44	Gradient Boost (General Model)	11	0.917	6311	270.7104029990628	2824127	0.69	3201	620	42822	None
+cluster_5	65.91	0.35	Gradient Boost (General Model)	11	0.9	7239	256.35313174946003	1577704	0.63	1852	285	36959	None
+cluster_6	71.56	2.09	Gradient Boost (General Model)	11	0.889	10008	256.749500998004	1731718	0.64	2004	252	45473	None
+cluster_7	67.16	1.74	Gradient Boost (General Model)	11	0.916	5385	281.4289504716981	3116708	0.68	3392	721	32270	None
+cluster_8	66.26	4.28	Gradient Boost (General Model)	11	0.924	6183	279.56081485919714	3017974	0.64	3338	631	27753	None
+cluster_9	74.31	5.96	Gradient Boost (General Model)	11	0.842	9996	234.16834721613327	1895945	0.52	2281	287	45755	None

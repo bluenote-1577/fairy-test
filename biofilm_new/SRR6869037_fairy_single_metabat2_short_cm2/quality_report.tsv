@@ -1,0 +1,6 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+SRR6869037_fairy_single_metabat2_short_bin.1	59.83	0.06	Neural Network (Specific Model)	11	0.903	11163	237.29418221734358	716325	0.35	911	97	37098	None
+SRR6869037_fairy_single_metabat2_short_bin.2	20.2	0.04	Neural Network (Specific Model)	11	0.832	7156	192.42025862068965	320997	0.34	464	57	16990	None
+SRR6869037_fairy_single_metabat2_short_bin.3	69.6	0.02	Gradient Boost (General Model)	11	0.902	4308	256.0587326120556	1649153	0.48	1941	436	13678	None
+SRR6869037_fairy_single_metabat2_short_bin.4	68.62	2.25	Neural Network (Specific Model)	11	0.878	4955	225.43973703433164	1052125	0.35	1369	246	38288	None
+SRR6869037_fairy_single_metabat2_short_bin.5	28.71	2.97	Neural Network (Specific Model)	11	0.882	2463	206.30528586839267	649043	0.35	927	265	6696	None

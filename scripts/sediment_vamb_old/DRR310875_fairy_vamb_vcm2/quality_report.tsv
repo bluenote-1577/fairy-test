@@ -1,0 +1,8 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+10367	27.49	0.0	Neural Network (Specific Model)	11	0.901	3970	232.24310344827586	447595	0.49	580	148	11243	None
+11857	53.71	0.0	Gradient Boost (General Model)	11	0.869	7414	259.51666666666665	482821	0.47	540	79	18385	None
+2965	86.23	1.76	Gradient Boost (General Model)	11	0.886	5774	245.8757183908046	1156016	0.46	1392	291	19642	None
+3102	94.46	0.11	Gradient Boost (General Model)	11	0.861	72055	322.6780626780627	1969258	0.42	1755	52	134155	None
+3314	96.85	0.21	Gradient Boost (General Model)	11	0.819	47299	297.3189935064935	1340414	0.3	1232	61	123146	None
+7159	82.3	0.13	Gradient Boost (General Model)	11	0.891	5204	218.65090283748924	853490	0.51	1163	233	22776	None
+8487	88.91	1.43	Gradient Boost (General Model)	11	0.885	15557	289.9323741007194	1362858	0.43	1390	123	35467	None

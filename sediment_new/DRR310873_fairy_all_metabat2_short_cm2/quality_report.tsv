@@ -1,0 +1,15 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+DRR310873_fairy_all_metabat2_short_bin.1	5.68	0.0	Neural Network (Specific Model)	11	0.874	5766	227.1152815013405	290107	0.49	373	63	22698	None
+DRR310873_fairy_all_metabat2_short_bin.10	12.1	0.38	Neural Network (Specific Model)	11	0.847	3308	224.04043545878693	508390	0.36	643	157	41954	None
+DRR310873_fairy_all_metabat2_short_bin.11	44.18	0.0	Gradient Boost (General Model)	11	0.884	5115	262.3009009009009	493305	0.33	555	120	16020	None
+DRR310873_fairy_all_metabat2_short_bin.12	93.29	0.7	Gradient Boost (General Model)	11	0.884	116710	249.68941765810897	1349693	0.5	1597	24	205784	None
+DRR310873_fairy_all_metabat2_short_bin.13	52.46	2.83	Gradient Boost (General Model)	11	0.882	3511	229.7767969735183	618100	0.45	793	193	8653	None
+DRR310873_fairy_all_metabat2_short_bin.14	61.26	0.25	Gradient Boost (General Model)	11	0.885	3159	248.29721900347624	1448146	0.37	1726	501	9104	None
+DRR310873_fairy_all_metabat2_short_bin.2	95.23	0.15	Gradient Boost (General Model)	11	0.87	56568	286.93567599761764	1658821	0.34	1679	55	160037	None
+DRR310873_fairy_all_metabat2_short_bin.3	29.38	0.28	Neural Network (Specific Model)	11	0.873	2306	237.00984251968504	826751	0.31	1016	355	6574	None
+DRR310873_fairy_all_metabat2_short_bin.4	95.72	2.27	Gradient Boost (General Model)	11	0.883	29972	278.0256975036711	1284170	0.49	1362	84	51328	None
+DRR310873_fairy_all_metabat2_short_bin.5	70.89	2.69	Neural Network (Specific Model)	11	0.877	10265	259.59633757961785	1113508	0.49	1256	161	30090	None
+DRR310873_fairy_all_metabat2_short_bin.6	8.96	0.01	Neural Network (Specific Model)	11	0.898	2791	261.5686591276252	539475	0.63	619	205	8277	None
+DRR310873_fairy_all_metabat2_short_bin.7	81.42	3.01	Gradient Boost (General Model)	11	0.868	6356	263.6073469387755	1112728	0.43	1225	219	26297	None
+DRR310873_fairy_all_metabat2_short_bin.8	25.38	0.32	Neural Network (Specific Model)	11	0.877	2666	248.16689847009735	1217464	0.6	1438	449	24574	None
+DRR310873_fairy_all_metabat2_short_bin.9	33.25	0.57	Neural Network (Specific Model)	11	0.908	3148	226.878612716763	258583	0.35	346	88	12396	None

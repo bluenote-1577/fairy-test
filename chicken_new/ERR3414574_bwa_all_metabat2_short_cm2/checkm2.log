@@ -1,0 +1,9 @@
+[02/09/2024 01:14:06 PM] INFO: Running CheckM2 version 1.0.2
+[02/09/2024 01:14:06 PM] INFO: Running quality prediction workflow with 20 threads.
+[02/09/2024 01:14:07 PM] INFO: Calling genes in 176 bins with 20 threads:
+[02/09/2024 01:15:09 PM] INFO: Calculating metadata for 176 bins with 20 threads:
+[02/09/2024 01:15:10 PM] INFO: Annotating input genomes with DIAMOND using 20 threads
+[02/09/2024 01:21:33 PM] INFO: Processing DIAMOND output
+[02/09/2024 01:21:35 PM] INFO: Predicting completeness and contamination using ML models.
+[02/09/2024 01:21:48 PM] INFO: Parsing all results and constructing final output table.
+[02/09/2024 01:21:49 PM] INFO: CheckM2 finished successfully.

@@ -1,0 +1,27 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+SRR19064410_fairy_single_metabat2_short_bin.1	8.74	0.0	Neural Network (Specific Model)	11	0.885	2529	249.5835189309577	378317	0.64	449	156	7800	None
+SRR19064410_fairy_single_metabat2_short_bin.10	73.9	0.33	Gradient Boost (General Model)	11	0.932	4357	322.2183333333333	1242502	0.4	1200	324	19244	None
+SRR19064410_fairy_single_metabat2_short_bin.11	86.4	0.15	Neural Network (Specific Model)	11	0.894	86238	326.65542763157896	2660465	0.41	2432	48	177816	None
+SRR19064410_fairy_single_metabat2_short_bin.12	3.83	0.01	Neural Network (Specific Model)	11	0.973	4174	479.9568345323741	205208	0.42	139	56	15268	None
+SRR19064410_fairy_single_metabat2_short_bin.13	94.5	0.51	Gradient Boost (General Model)	11	0.902	45067	329.37626262626264	2599213	0.54	2376	83	140543	None
+SRR19064410_fairy_single_metabat2_short_bin.14	81.0	4.6	Neural Network (Specific Model)	11	0.877	8153	284.5578147966683	3965800	0.51	4082	636	69694	None
+SRR19064410_fairy_single_metabat2_short_bin.15	8.2	0.0	Neural Network (Specific Model)	11	0.881	246620	290.508	246620	0.45	250	1	246620	None
+SRR19064410_fairy_single_metabat2_short_bin.16	36.81	0.12	Neural Network (Specific Model)	11	0.867	65519	354.10818713450294	836874	0.6	684	19	115585	None
+SRR19064410_fairy_single_metabat2_short_bin.17	87.68	3.07	Neural Network (Specific Model)	11	0.889	16812	297.2875760208514	3457995	0.61	3453	315	63459	None
+SRR19064410_fairy_single_metabat2_short_bin.18	100.0	76.21	Neural Network (Specific Model)	11	0.874	11681	283.3429595698068	4871632	0.61	5021	593	49562	None
+SRR19064410_fairy_single_metabat2_short_bin.19	95.19	0.66	Gradient Boost (General Model)	11	0.894	15403	323.9501779359431	2743384	0.49	2529	261	63271	None
+SRR19064410_fairy_single_metabat2_short_bin.2	8.37	0.02	Neural Network (Specific Model)	11	0.845	8668	267.1687116564417	307627	0.36	326	50	28687	None
+SRR19064410_fairy_single_metabat2_short_bin.20	85.26	2.04	Neural Network (Specific Model)	11	0.914	5150	290.1485299732722	2487985	0.38	2619	566	37785	None
+SRR19064410_fairy_single_metabat2_short_bin.21	86.01	1.52	Neural Network (Specific Model)	11	0.91	32322	326.74017550553225	2817547	0.48	2621	141	82441	None
+SRR19064410_fairy_single_metabat2_short_bin.22	87.27	1.39	Gradient Boost (General Model)	11	0.906	7836	327.4736842105263	2035587	0.43	1881	339	34329	None
+SRR19064410_fairy_single_metabat2_short_bin.23	15.14	0.24	Neural Network (Specific Model)	11	0.949	2927	267.8509406657019	582608	0.45	691	205	10877	None
+SRR19064410_fairy_single_metabat2_short_bin.24	30.79	0.34	Neural Network (Specific Model)	11	0.93	2836	261.3885714285714	735607	0.41	875	273	9364	None
+SRR19064410_fairy_single_metabat2_short_bin.25	100.0	3.15	Neural Network (Specific Model)	11	0.898	85446	347.46683673469386	4997191	0.42	4312	102	271395	None
+SRR19064410_fairy_single_metabat2_short_bin.26	6.62	0.03	Neural Network (Specific Model)	11	0.879	12692	303.64	258099	0.43	250	31	24019	None
+SRR19064410_fairy_single_metabat2_short_bin.3	44.73	0.04	Neural Network (Specific Model)	11	0.878	49831	335.825730994152	980468	0.6	855	26	107690	None
+SRR19064410_fairy_single_metabat2_short_bin.4	92.93	0.12	Neural Network (Specific Model)	11	0.91	17670	357.27690920024054	3912731	0.46	3326	327	55961	None
+SRR19064410_fairy_single_metabat2_short_bin.5	67.85	1.15	Neural Network (Specific Model)	11	0.921	5041	269.8889378580873	1986868	0.47	2269	472	21893	None
+SRR19064410_fairy_single_metabat2_short_bin.6	88.53	4.53	Neural Network (Specific Model)	11	0.853	14471	310.8355242064764	3405550	0.42	3119	344	65662	None
+SRR19064410_fairy_single_metabat2_short_bin.7	13.38	0.62	Neural Network (Specific Model)	11	0.854	9920	282.9733978234583	819844	0.4	827	126	30817	None
+SRR19064410_fairy_single_metabat2_short_bin.8	93.28	0.42	Neural Network (Specific Model)	11	0.913	76530	395.3082021541011	6264177	0.42	4828	156	296948	None
+SRR19064410_fairy_single_metabat2_short_bin.9	94.48	5.42	Neural Network (Specific Model)	11	0.914	82648	375.9257755871267	4252911	0.47	3449	73	382568	None

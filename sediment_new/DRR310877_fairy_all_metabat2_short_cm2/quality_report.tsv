@@ -1,0 +1,14 @@
+Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
+DRR310877_fairy_all_metabat2_short_bin.1	17.45	0.0	Neural Network (Specific Model)	11	0.897	2471	242.84756097560975	265598	0.41	328	111	6008	None
+DRR310877_fairy_all_metabat2_short_bin.10	85.47	0.76	Gradient Boost (General Model)	11	0.86	13607	265.40417598806863	1238143	0.49	1341	140	39877	None
+DRR310877_fairy_all_metabat2_short_bin.11	50.65	0.03	Gradient Boost (General Model)	11	0.869	6768	277.1623794212219	594503	0.33	622	108	30348	None
+DRR310877_fairy_all_metabat2_short_bin.12	81.72	0.43	Gradient Boost (General Model)	11	0.857	7431	276.6040404040404	1434575	0.43	1485	243	32782	None
+DRR310877_fairy_all_metabat2_short_bin.13	94.46	6.13	Gradient Boost (General Model)	11	0.855	9178	268.902706185567	1461494	0.34	1552	297	39734	None
+DRR310877_fairy_all_metabat2_short_bin.2	19.55	4.99	Neural Network (Specific Model)	11	0.854	3338	192.2960932145305	980579	0.42	1459	321	41479	None
+DRR310877_fairy_all_metabat2_short_bin.3	33.18	0.13	Neural Network (Specific Model)	11	0.868	2219	218.7588477366255	917853	0.33	1215	407	6220	None
+DRR310877_fairy_all_metabat2_short_bin.4	85.35	0.23	Gradient Boost (General Model)	11	0.867	4143	276.0251168224299	1631164	0.42	1712	453	17857	None
+DRR310877_fairy_all_metabat2_short_bin.5	48.95	0.06	Gradient Boost (General Model)	11	0.878	3582	228.24641460234682	597043	0.47	767	175	12853	None
+DRR310877_fairy_all_metabat2_short_bin.6	83.52	2.49	Gradient Boost (General Model)	11	0.85	7495	248.7177570093458	936479	0.46	1070	166	22550	None
+DRR310877_fairy_all_metabat2_short_bin.7	54.77	6.16	Gradient Boost (General Model)	11	0.835	3652	265.32980972515855	1350297	0.35	1419	395	21057	None
+DRR310877_fairy_all_metabat2_short_bin.8	58.17	1.25	Gradient Boost (General Model)	11	0.854	3099	235.65339366515838	1827030	0.32	2210	616	12792	None
+DRR310877_fairy_all_metabat2_short_bin.9	87.01	2.62	Gradient Boost (General Model)	11	0.873	5087	271.6375321336761	2173273	0.38	2334	510	15157	None
