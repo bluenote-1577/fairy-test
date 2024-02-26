@@ -74,10 +74,10 @@ def read_and_label(file):
     return data
 
 
-metabinner_dirs = ['../wallen_metabinner','../soil_metabinner','../sediment_metabinner','../biofilm_metabinner','../chicken_metabinner']
-maxbin_dirs = ['../wallen_maxbin','../soil_maxbin','../sediment_maxbin','../biofilm_maxbin']
-vamb_dirs = ['../wallen_vamb','../soil_vamb','../sediment_vamb','../biofilm_vamb','../chicken_vamb']
-metabat_dirs = ['../wallen_new','../soil_new','../sediment_new','../biofilm_new','../chicken_new']
+metabinner_dirs = ['wallen_metabinner','soil_metabinner','sediment_metabinner','biofilm_metabinner','chicken_metabinner']
+maxbin_dirs = ['wallen_maxbin','soil_maxbin','sediment_maxbin','biofilm_maxbin']
+vamb_dirs = ['wallen_vamb','soil_vamb','sediment_vamb','biofilm_vamb','chicken_vamb']
+metabat_dirs = ['wallen_new','soil_new','sediment_new','biofilm_new','chicken_new']
 all_dirs = [metabinner_dirs, maxbin_dirs, vamb_dirs, metabat_dirs]
 all_df = []
 for d in all_dirs:
@@ -177,7 +177,7 @@ plt.grid(axis='y')
 #remove upper and right borders
 sns.despine()
 
-plt.savefig('../figures/fig2-bincomp.svg', format='svg', dpi=300, bbox_inches='tight')
+plt.savefig('figures/fig2-bincomp.svg', format='svg', dpi=300, bbox_inches='tight')
 plt.xlabel("")
 # Show the plot
 plt.show()

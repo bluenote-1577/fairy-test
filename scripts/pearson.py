@@ -13,19 +13,19 @@ def read_reorder_label(df, var = False):
     return df
 
 
-file1s = ['new_covs/SRR6869032_bwa_all_short.tsv',
-'new_covs/SRR19064410_bwa_all_short.tsv',
-'new_covs/DRR310871_bwa_all_short.tsv',
-'new_covs/SRR2546421_bwa_all_short.tsv',
-'new_covs/ERR7625420_minimap_all_long.tsv',
-'new_covs/ERR7014844_minimap_all_long.tsv']
+file1s = ['pearson_covs/SRR6869032_bwa_all_short.tsv',
+'pearson_covs/SRR19064410_bwa_all_short.tsv',
+'pearson_covs/DRR310871_bwa_all_short.tsv',
+'pearson_covs/SRR2546421_bwa_all_short.tsv',
+'pearson_covs/ERR7625420_minimap_all_long.tsv',
+'pearson_covs/ERR7014844_minimap_all_long.tsv']
 
-file2s = ['new_covs/SRR6869032_fairy_all_short.tsv',
-'new_covs/SRR19064410_fairy_all_short.tsv',
-'new_covs/DRR310871_fairy_all_short.tsv',
-'new_covs/SRR2546421_fairy_all_short.tsv',
-'new_covs/ERR7625420_fairy_all_long.tsv',
-'new_covs/ERR7014844_fairy_all_long.tsv']
+file2s = ['pearson_covs/SRR6869032_fairy_all_short.tsv',
+'pearson_covs/SRR19064410_fairy_all_short.tsv',
+'pearson_covs/DRR310871_fairy_all_short.tsv',
+'pearson_covs/SRR2546421_fairy_all_short.tsv',
+'pearson_covs/ERR7625420_fairy_all_long.tsv',
+'pearson_covs/ERR7014844_fairy_all_long.tsv']
 
 datasets = ['Biofilm', 'Human Gut', 'Sediment', 'Soil', 'Sludge (Nanopore)', 'Human Gut (Nanopore)']
 plt_df = pd.DataFrame([])
