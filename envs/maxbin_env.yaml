@@ -1,0 +1,11 @@
+name: maxbin
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - maxbin2
+  - snakemake
+  - ca-certificates
+  - openssl
+prefix: /home/jshaw/miniforge3/envs/maxbin
