@@ -23,7 +23,7 @@ python scripts/pearson.py
 python scripts/timeplot.py
 ```
 
-### Figure 2B
+### Figure 3A/B
 
 To regenerate results for Figure 2B, run scripts/binnercomp.py.
 
@@ -31,7 +31,7 @@ To regenerate results for Figure 2B, run scripts/binnercomp.py.
 python scripts/binnercomp.py
 ```
 
-### Figure 2A
+### Figure 2
 
 To regenerate Figure 2A, run any combination of 
 ```sh
@@ -40,7 +40,7 @@ python scripts/fig2.py chicken_new biofilm_new ...
 
 `*_new` indicates the checkm2 results for MetaBAT2. `*_maxbin` are checkm2 results for MaxBin2, and etc. 
 
-## Figure 3
+## Figure 4
 
 Check out the `notebooks/contamination.ipynb` jupyter notebook. You will need jupyter notebook installed. 
 
